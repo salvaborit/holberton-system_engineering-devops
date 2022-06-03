@@ -11,16 +11,16 @@ Task 13:
 cat access.log | grep "GET"
 
 Task 14:
-
+grep 500 -lr 	
 
 Task 15:
-
+find . -type f -name access.log* 
 
 Task 16:
-
+grep -rh "500"
 
 Task 17:
-
+grep -ro ^[.0-999]*
 
 Task 18:
-
+ls -l | wc -l 
