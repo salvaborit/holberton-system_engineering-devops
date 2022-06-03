@@ -1,0 +1,26 @@
+Task 19:
+cat access.log | sort
+
+Task 20:
+grep GET access.log | wc -l 
+
+Task 21:
+tr ';' '\n' < *
+
+Task 22:
+echo {1..100} 
+
+Task 23:
+sed -i "d" **/*.txt
+
+Task 24:
+paste -sd+ sum-me.txt | bc
+
+Task 25:
+find . -type f -printf "%f\n"
+
+Task 26:
+rm -r **
+
+Task 27:
+ls | tr ' ' '.' 
