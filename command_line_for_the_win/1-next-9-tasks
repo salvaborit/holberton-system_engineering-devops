@@ -1,5 +1,5 @@
 Task 10:
-tmp/files/take-the-command-challenge take-the-command-challenge 
+ln -s tmp/files/take-the-command-challenge take-the-command-challenge 
 
 Task 11:
 rm -rf ./{*,.*} 
