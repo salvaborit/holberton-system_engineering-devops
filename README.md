@@ -1,1 +1,1 @@
-2.5 OPTIONAL HBTN Shell CMD line challenge project repo
+This repo contains the optional project directories for Holberton.
